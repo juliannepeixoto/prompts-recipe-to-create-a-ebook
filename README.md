@@ -24,3 +24,6 @@ Create an image of "Señor Barriga" at a beach restaurant, eating delicious food
 
 Ebook gerado: "Férias do Sr. Barriga em Acapulco: Seu guia divertido e prático para explorar a cidade de Acapulco sem estourar seu orçamento"
 
+[ebook dio jfp.pdf](https://github.com/juliannepeixoto/prompts-recipe-to-create-a-ebook/files/15444234/ebook.dio.jfp.pdf)
+
+[ebook dio jfp.pptx](https://github.com/juliannepeixoto/prompts-recipe-to-create-a-ebook/files/15444236/ebook.dio.jfp.pptx)
